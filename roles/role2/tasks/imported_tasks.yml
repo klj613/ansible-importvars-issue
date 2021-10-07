@@ -1,0 +1,5 @@
+---
+
+- name: 'role2 imported task'
+  pause:
+    minutes: 1
